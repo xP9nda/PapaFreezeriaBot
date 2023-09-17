@@ -1,0 +1,49 @@
+{
+  "save_slot_locations": {
+    "1": [390, 860],
+    "2": [960, 860],
+    "3": [1530, 860]
+  },
+
+  "station_1_pixel_location": [627, 1066],
+  "station_1_pixel_colour": [44, 192, 0],
+  "station_1_pixel_grey": [76, 76, 76],
+
+  "dispense_bar_pixel_location": [818, 265],
+  "dispense_bar_pixel_colour": [70, 70, 70],
+  "dispense_button_pixel_location": [818, 350],
+
+  "ticket_cup_size_region": [1640, 600, 1710, 685],
+  "ticket_ingredient_1_region": [1670, 565, 1750, 600],
+  "ingredient_1_selection_region": [200, 200, 1480, 950],
+
+  "ticket_ingredient_2_region": [1810, 555, 1850, 580],
+  "ingredient_2_selection_region": [160, 185, 1480, 920],
+
+  "ticket_blend_colour_location": [1730, 650],
+  "blend_colour_chunky": [249, 204, 255],
+  "blend_colour_regular": [167, 70, 255],
+  "blend_colour_smooth": [64, 53, 255],
+
+  "station_3_cup_start_location": [160, 750],
+  "station_3_cup_end_location": [1650, 850],
+  "station_3_blender_1_location": [475, 575],
+  "station_3_blender_1_boost_location": [475, 775],
+
+  "station_3_blender_bar_location": [400, 315],
+
+  "ticket_whipped_cream_region": [1755, 440, 1780, 490],
+  "station_4_toppings_region": [20, 250, 665, 800],
+  "station_4_toppings_shaker_location": [740, 685],
+  "station_4_toppings_loose_location": [740, 580],
+
+  "station_4_toppings_drop_start_location": [1050, 300],
+  "station_4_toppings_drop_end_location": [1250, 300],
+
+  "ticket_syrup_1_region": [1750, 360, 1785, 410],
+  "ticket_syrup_2_region": [1750, 275, 1785, 330],
+
+  "ticket_shaker_1_region": [1750, 360, 1785, 410],
+  "ticket_shaker_2_region": [1750, 275, 1785, 330],
+  "ticket_shaker_3_region": [1750, 200, 1785, 245]
+}
